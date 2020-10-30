@@ -1,0 +1,50 @@
+[2020-05-06 00:46:59,464] SEVERE {b7a.log.crash} - java.util.ConcurrentModificationException 
+error: java.util.ConcurrentModificationException message=KafkaConsumer is not safe for multi-threaded access
+	at ballerina.kafka:consumerPoll(consumer.bal:602)
+	   ballerina.kafka.Consumer:poll(consumer.bal:417)
+	   $value$basic__service_0:onOpen(WebsocketKaka.bal:41) 
+[2020-05-06 01:01:23,930] SEVERE {b7a.log.crash} - java.util.ConcurrentModificationException 
+error: java.util.ConcurrentModificationException message=KafkaConsumer is not safe for multi-threaded access
+	at ballerina.kafka:consumerPoll(consumer.bal:602)
+	   ballerina.kafka.Consumer:poll(consumer.bal:417)
+	   $value$basic__service_0:onOpen(WebsocketKaka.bal:41) 
+[2020-05-06 01:07:45,244] SEVERE {b7a.log.crash} - java.util.ConcurrentModificationException 
+error: java.util.ConcurrentModificationException message=KafkaConsumer is not safe for multi-threaded access
+	at ballerina.kafka:consumerPoll(consumer.bal:602)
+	   ballerina.kafka.Consumer:poll(consumer.bal:417)
+	   $value$basic__service_0:onOpen(WebsocketKaka.bal:41) 
+[2020-05-06 01:10:24,335] SEVERE {b7a.log.crash} - java.util.ConcurrentModificationException 
+error: java.util.ConcurrentModificationException message=KafkaConsumer is not safe for multi-threaded access
+	at ballerina.kafka:consumerPoll(consumer.bal:602)
+	   ballerina.kafka.Consumer:poll(consumer.bal:417)
+	   $value$basic__service_0:onOpen(WebsocketKaka.bal:41) 
+[2020-05-06 01:11:36,444] SEVERE {b7a.log.crash} - java.util.ConcurrentModificationException 
+error: java.util.ConcurrentModificationException message=KafkaConsumer is not safe for multi-threaded access
+	at ballerina.kafka:consumerPoll(consumer.bal:602)
+	   ballerina.kafka.Consumer:poll(consumer.bal:417)
+	   $value$basic__service_0:onOpen(WebsocketKaka.bal:41) 
+[2020-05-06 02:01:21,129] SEVERE {b7a.log.crash} - java.util.ConcurrentModificationException 
+error: java.util.ConcurrentModificationException message=KafkaConsumer is not safe for multi-threaded access
+	at ballerina.kafka:consumerPoll(consumer.bal:602)
+	   ballerina.kafka.Consumer:poll(consumer.bal:417)
+	   $value$basic__service_0:onOpen(WebsocketKaka.bal:42) 
+[2020-05-06 02:01:35,749] SEVERE {b7a.log.crash} - java.util.ConcurrentModificationException 
+error: java.util.ConcurrentModificationException message=KafkaConsumer is not safe for multi-threaded access
+	at ballerina.kafka:consumerPoll(consumer.bal:602)
+	   ballerina.kafka.Consumer:poll(consumer.bal:417)
+	   $value$basic__service_0:onOpen(WebsocketKaka.bal:42) 
+[2020-05-06 02:01:41,921] SEVERE {b7a.log.crash} - java.util.ConcurrentModificationException 
+error: java.util.ConcurrentModificationException message=KafkaConsumer is not safe for multi-threaded access
+	at ballerina.kafka:consumerPoll(consumer.bal:602)
+	   ballerina.kafka.Consumer:poll(consumer.bal:417)
+	   $value$basic__service_0:onOpen(WebsocketKaka.bal:42) 
+[2020-05-06 02:01:55,786] SEVERE {b7a.log.crash} - java.util.ConcurrentModificationException 
+error: java.util.ConcurrentModificationException message=KafkaConsumer is not safe for multi-threaded access
+	at ballerina.kafka:consumerPoll(consumer.bal:602)
+	   ballerina.kafka.Consumer:poll(consumer.bal:417)
+	   $value$basic__service_0:onOpen(WebsocketKaka.bal:42) 
+[2020-05-06 02:02:47,699] SEVERE {b7a.log.crash} - java.util.ConcurrentModificationException 
+error: java.util.ConcurrentModificationException message=KafkaConsumer is not safe for multi-threaded access
+	at ballerina.kafka:consumerPoll(consumer.bal:602)
+	   ballerina.kafka.Consumer:poll(consumer.bal:417)
+	   $value$basic__service_0:onOpen(WebsocketKaka.bal:42) 
